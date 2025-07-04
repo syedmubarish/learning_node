@@ -1,11 +1,13 @@
-# Browser vs node
+# Modules
 
-In browser, we interact with WEB API like DOM,cookies etc.
-Node doesn't have document,window and all other objects provided by browser 
+Module is an encapsulated andreusable chunk of code with its own context(have its own scope).
 
-Browser doesn't have functionalities like file system access
-Node have this provided by modules
+NodeJs treat each file as seperate module
 
-With node we control environment
-With browser,we are at mercy of user 
-For eg:If the user choose internet explore,we have more work to do
+Different types of module
+
+## Different types of modules
+
+1.Local Modules
+2.Built-in Modules
+3.Third party Modules
