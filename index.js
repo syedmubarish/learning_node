@@ -1,4 +1,4 @@
-//Third Pattern using destructuring
+//Fourth Pattern
 
 const {add,subtract} = require('./math')
 
