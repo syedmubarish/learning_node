@@ -1,4 +1,4 @@
-//First Pattern
+//Second Pattern
 
 const add = require('./math')
 
