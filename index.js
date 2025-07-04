@@ -1,9 +1,9 @@
-//Third Pattern
+//Third Pattern using destructuring
 
-const math = require('./math')
+const {add,subtract} = require('./math')
 
-const sumRes = math.add(1,2)
-const subRes = math.subtract(6,2)
+const sumRes = add(1,2)
+const subRes = subtract(6,2)
 
 console.log(sumRes);
 console.log(subRes);

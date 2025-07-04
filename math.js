@@ -1,4 +1,4 @@
-//Third Pattern
+//Third Pattern using destructuring
 
 const add = (a, b) => {
   return a + b;
