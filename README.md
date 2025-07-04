@@ -1,10 +1,7 @@
-# Hello World
+# Local Module
 
-## REPL
+To load a module into another file, we use require function
+When index.js is executed code in the module is also executed
 
-To enter into REPL, type node on terminal
-To exit .exit or Ctrl + C twice or Ctrl + D
 
-## Executing file
-Run the file using node filename on terminal
-
+We can omit .js extension, node will infer it on our behalf

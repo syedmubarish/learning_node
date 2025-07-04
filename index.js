@@ -1,6 +1,5 @@
-// type node in terminal to enter into REPL mode
+require('./add')
 
 
-console.log("Hello World!!")
+console.log("Hiii")
 
-// type node filename or node filename.js in terminal to execute code in the file 
