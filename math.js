@@ -1,6 +1,11 @@
-//Second Pattern
+//Third Pattern
 
-module.exports = (a, b) => {
+const add = (a, b) => {
   return a + b;
 };
 
+const subtract = (a, b) => {
+  return a - b;
+};
+
+module.exports = {add,subtract}

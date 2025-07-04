@@ -1,7 +1,9 @@
-//Second Pattern
+//Third Pattern
 
-const add = require('./math')
+const math = require('./math')
 
-const res = add(1,2)
+const sumRes = math.add(1,2)
+const subRes = math.subtract(6,2)
 
-console.log(res);
+console.log(sumRes);
+console.log(subRes);
