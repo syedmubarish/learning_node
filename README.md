@@ -1,7 +1,5 @@
-# Local Module
+#  Module Exports
 
-To load a module into another file, we use require function
-When index.js is executed code in the module is also executed
+To load specific things from module into another file, using require function and module.exports for exporting.
 
-
-We can omit .js extension, node will infer it on our behalf
+This here is default export,importing variable can be any name in default export
