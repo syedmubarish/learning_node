@@ -1,3 +1,9 @@
-# learning_node
+# Module Wrapper
 
-Switch branches for each topics based on code evolution yt tutorial
+As we learned before loading a module it is wrapped into IIFE.
+That IIFE contains five parameters
+
+
+(function(module,exports,require,__filename,__dirname){
+    code in file
+})()
