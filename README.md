@@ -1,3 +1,10 @@
-# learning_node
+# Hello World
 
-Switch branches for each topics based on code evolution yt tutorial
+## REPL
+
+To enter into REPL, type node on terminal
+To exit .exit or Ctrl + C twice or Ctrl + D
+
+## Executing file
+Run the file using node filename on terminal
+
