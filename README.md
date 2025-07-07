@@ -1,3 +1,3 @@
-# learning_node
+# Importing json
 
-Switch branches for each topics based on code evolution yt tutorial
+While importing json is automatically parsed to javascript object. Default behaviour of require function
