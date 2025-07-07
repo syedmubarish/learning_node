@@ -1,5 +1,7 @@
-import mathAdd from './math.mjs'
+import math from './math.mjs'
 
-const result = mathAdd(2,3)
+const resultAdd = math.add(2,3)
+const resultSub = math.subtract(7,3)
 
-console.log(result);
+console.log(resultAdd);
+console.log(resultSub);
